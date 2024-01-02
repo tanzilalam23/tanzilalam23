@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Engineer Enthusiast
 ------------------------
-<img align="right" alt="Coding" width="400" src="https://github.com/tanzilalam23/mohammadtanzilalam.github.io/blob/main/img/1.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/tanzilalam23/mohammadtanzilalam.github.io/blob/main/img/1.gif">
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Tanzil](http://tanzilalam23.github.io/mohammadtanzilalam.github.io/)
